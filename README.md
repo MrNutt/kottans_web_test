@@ -5,3 +5,4 @@ web test for kottans
 2. [learngitbranching1](/task_0/learngitbranching1.png)
 3. [learngitbranching2](/task_0/learngitbranching2.png)
 4. [learngitbranching3](/task_0/learngitbranching3.png)
+5. [pullRequest](/task_0/pullRequest.png)
